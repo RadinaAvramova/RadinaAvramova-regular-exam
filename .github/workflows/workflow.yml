@@ -23,7 +23,7 @@ jobs:
     - name: Run Unit tests
       run: npm run test:unit
     - name: Show SoftUni username
-      run: echo $GITHUB_ACTOR
+      run: echo "RadinaAvramova"
 
   ui_test:
 
